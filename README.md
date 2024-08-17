@@ -1,5 +1,5 @@
 # task
-Here's a template for your README file. Customize it according to your specific implementation.
+
 
 ---
 
@@ -95,4 +95,4 @@ For any queries or additional information, please feel free to reach out.
 
 ---
 
-This README file provides a clear structure, making it easy for anyone reviewing your submission to understand and run your code.
+
